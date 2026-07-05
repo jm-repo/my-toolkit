@@ -1,0 +1,8 @@
+{
+  "name": "my-toolkit",
+  "version": "0.1.0",
+  "description": "woals의 개인용 Claude Code 툴킷 - statusline으로 시작해서 필요할 때마다 skill/hook/agent를 추가",
+  "author": {
+    "name": "woals"
+  }
+}

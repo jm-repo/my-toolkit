@@ -1,0 +1,18 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "my-toolkit-marketplace",
+  "description": "woals의 개인용 Claude Code 플러그인 마켓플레이스",
+  "owner": {
+    "name": "woals"
+  },
+  "plugins": [
+    {
+      "name": "my-toolkit",
+      "description": "개인용 Claude Code 툴킷 - statusline으로 시작해서 필요할 때마다 skill/hook/agent를 추가",
+      "version": "0.1.0",
+      "source": "./",
+      "category": "productivity"
+    }
+  ],
+  "version": "0.1.0"
+}
