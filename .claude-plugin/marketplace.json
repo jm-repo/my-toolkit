@@ -8,11 +8,11 @@
   "plugins": [
     {
       "name": "my-toolkit",
-      "description": "개인용 Claude Code 툴킷 - statusline으로 시작해서 필요할 때마다 skill/hook/agent를 추가",
-      "version": "0.1.0",
+      "description": "개인용 Claude Code 툴킷 - statusline + CLAUDE.md 관리",
+      "version": "0.2.0",
       "source": "./",
       "category": "productivity"
     }
   ],
-  "version": "0.1.0"
+  "version": "0.2.0"
 }

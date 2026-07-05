@@ -12,6 +12,8 @@ claude plugin install my-toolkit@my-toolkit-marketplace
 ## 구성
 
 - `statusline/statusline.ps1` — Claude Code 상태줄 스크립트. `~/.claude/statusline-command.ps1`이 launcher 역할을 하며 여기 설치된 버전을 자동으로 찾아 실행한다.
+- `skills/claude-md-improver/` — CLAUDE.md 파일 감사·개선 스킬.
+- `commands/revise-claude-md.md` — 세션 학습 내용을 CLAUDE.md에 반영하는 커맨드.
 
 ## 새 기능 추가하는 법
 
