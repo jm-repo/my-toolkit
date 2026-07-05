@@ -1,7 +1,7 @@
 {
   "name": "my-toolkit",
-  "version": "0.2.0",
-  "description": "woals의 개인용 Claude Code 툴킷 - statusline + CLAUDE.md 관리",
+  "version": "0.3.0",
+  "description": "woals의 개인용 Claude Code 툴킷 - statusline + CLAUDE.md 관리 + grilling",
   "author": {
     "name": "woals"
   }
